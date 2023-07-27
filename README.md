@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Still learning enough to fill this section out. 
 
 <!--
 **Jack-Gibb/Jack-Gibb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
